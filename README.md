@@ -1,4 +1,4 @@
-CryptoVault - Cryptocurrency Tracker
+### CryptoVault - Cryptocurrency Tracker
 
 CryptoVault is a comprehensive Progressive Web Application (PWA) that allows users to track cryptocurrency market prices, monitor market trends, and receive real-time price alerts. The application provides a seamless experience across desktop and mobile devices with offline capabilities.
 
